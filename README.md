@@ -1,4 +1,4 @@
-# CodeComp3-Provisioning-Infrastructure
+# Provisioning-Infrastructure-Using-Terraform-GithubActions
 
 ## Step-by-step guide
 
